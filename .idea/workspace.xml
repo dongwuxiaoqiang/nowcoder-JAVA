@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44de94c9-d2d6-4a59-81c1-8133dcb3aeee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/丰收.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/三天打鱼两天晒网.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/牛客网编程题目-JAVA/T3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/牛客网编程题目-JAVA/T4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/牛客网编程题目-JAVA/T5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/牛客网编程题目-JAVA/T7$Naoling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/牛客网编程题目-JAVA/T7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/牛客网编程题目-JAVA/T8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/牛客网编程题目-JAVA/瞌睡.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/牛客网编程题目-JAVA/瞌睡.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/瞌睡.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/瞌睡.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +45,7 @@
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.丰收">
+  <component name="RunManager" selected="Application.三天打鱼两天晒网">
     <configuration name="瞌睡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="瞌睡" />
       <module name="牛客网编程题目-JAVA" />
@@ -61,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="丰收" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="丰收" />
+    <configuration name="三天打鱼两天晒网" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="三天打鱼两天晒网" />
       <module name="牛客网编程题目-JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,9 +93,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="丰收" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="丰收" />
+      <module name="牛客网编程题目-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.丰收" />
+        <item itemvalue="Application.三天打鱼两天晒网" />
         <item itemvalue="Application.被3整除" />
         <item itemvalue="Application.瞌睡" />
         <item itemvalue="Application.T8" />
@@ -123,7 +122,8 @@
       <updated>1583888460307</updated>
       <workItem from="1583888461799" duration="3731000" />
       <workItem from="1583894647748" duration="19451000" />
-      <workItem from="1583932662851" duration="4808000" />
+      <workItem from="1583932662851" duration="5141000" />
+      <workItem from="1583972820517" duration="3167000" />
     </task>
     <servers />
   </component>
@@ -135,22 +135,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="519" y="137" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1583921281244" />
-    <state width="1358" height="224" key="GridCell.Tab.0.bottom" timestamp="1583938158460">
+    <state width="1358" height="139" key="GridCell.Tab.0.bottom" timestamp="1583977466895">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="224" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583938158460" />
-    <state width="1358" height="224" key="GridCell.Tab.0.center" timestamp="1583938158460">
+    <state width="1358" height="139" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583977466895" />
+    <state width="1358" height="139" key="GridCell.Tab.0.center" timestamp="1583977466893">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="224" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583938158460" />
-    <state width="1358" height="224" key="GridCell.Tab.0.left" timestamp="1583938158459">
+    <state width="1358" height="139" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583977466893" />
+    <state width="1358" height="139" key="GridCell.Tab.0.left" timestamp="1583977466892">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="224" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583938158459" />
-    <state width="1358" height="224" key="GridCell.Tab.0.right" timestamp="1583938158460">
+    <state width="1358" height="139" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583977466892" />
+    <state width="1358" height="139" key="GridCell.Tab.0.right" timestamp="1583977466893">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="224" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583938158460" />
+    <state width="1358" height="139" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583977466893" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1583910471655">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
